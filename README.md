@@ -19,3 +19,14 @@ Delete Tasks: Remove tasks by their number.
 Exit Program: Close the application safely.
 
 Input Validation: Handles invalid inputs gracefully (entering a non-number for task selection or choosing an invalid menu option).
+
+ Technical Details:
+# - Uses a Python list to store tasks
+# - Implements menu navigation with match-case
+# - Includes error handling for invalid inputs
+#
+#  How to Use:
+# 1. Run the program
+# 2. Choose an option from the menu (1–5)
+# 3. Manage your tasks easily
+#
