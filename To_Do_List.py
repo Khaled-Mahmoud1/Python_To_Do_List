@@ -1,10 +1,6 @@
 # ==============================
 #   To-Do List Application
 # ==============================
-#  Description:
-# A simple console-based To-Do List application built with Python.
-# It helps users manage daily tasks efficiently with basic CRUD operations.
-#
 #  Features:
 # - Add new tasks
 # - View all tasks (numbered list using enumerate)
@@ -16,12 +12,6 @@
 # - Uses a Python list to store tasks
 # - Implements menu navigation with match-case
 # - Includes error handling for invalid inputs
-#
-#  How to Use:
-# 1. Run the program
-# 2. Choose an option from the menu (1–5)
-# 3. Manage your tasks easily
-#
 # ==============================
 
 tasks = []
