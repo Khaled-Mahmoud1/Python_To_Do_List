@@ -1,6 +1,5 @@
-# ========Python_To_Do_List========
+# ===Python_To_Do_List===
 
-## To-Do List App :
 
 ## Project Description:
 
